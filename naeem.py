@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 	# -*- coding: UTF-8 -*-
 	
-	import sys
 	import mechanize
 	import cookielib
 	import random
@@ -11,12 +10,11 @@
 	
 	print " ███╗░░██╗░█████╗░███████╗███████╗███╗░░░███╗ "
 	print " ████╗░██║██╔══██╗██╔════╝██╔════╝████╗░████║ "
-	print " ██╔██╗██║███████║█████╗░░█████╗░░██╔████╔██║  "
+	print " ██╔██╗██║███████║█████╗░░█████╗░░██╔████╔██║ "
 	print " ██║╚████║██╔══██║██╔══╝░░██╔══╝░░██║╚██╔╝██║ "
-	print " ██║░╚███║██║░░██║███████╗███████╗██║░╚═╝░██║ "	
 	
 	print ("-"*58)
-	print "  v1.0 coded by https://github.com/cyb3rt3ch/fb-brute"
+	print "  v1.0 coded by "
 	print ("-"*58)
 	print "\n"
 	
